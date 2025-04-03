@@ -18,7 +18,7 @@
 ## 📊About the Dataset
 Boston dataset consist of 14 columns. Price column (MEDV) depends of 13 other columns and also It is target column. In the Correlation section, we can see four key columns that strongly correlate with the Price column:
 
-1- LSTAT (Negative Correlation) 
-2- PT RATIO (Negative Correlation) 
-3- RM (Positive Correlation) 
-4- TAX (Negative Correlation
+- LSTAT (Negative Correlation) 
+- PT RATIO (Negative Correlation) 
+- RM (Positive Correlation) 
+- TAX (Negative Correlation
